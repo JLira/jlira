@@ -5,7 +5,7 @@
 [![author](https://img.shields.io/badge/jobson-lira-purple.svg)](https://www.linkedin.com/in/jobson-lira-098b771a8/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-darkblue.svg?style=flat)](https://github.com/jlira) [![](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
-  <img src="https://github.com/JLira/portifolio/blob/master/banner.png)" >
+  <img src="https://github.com/JLira/portifolio/banner.png)" >
 </p>
 
 
