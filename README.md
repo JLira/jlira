@@ -2,10 +2,10 @@
 
 <sub>*Desenvolvedor Cientista de Dados - Self-employed*</sub>
 
-[![author](https://img.shields.io/badge/author-daniel-purple.svg)](https://www.linkedin.com/in/daniel-sousa-amador) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-darkblue.svg?style=flat)](https://github.com/amadords) [![](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![author](https://img.shields.io/badge/jobson-lira-purple.svg)](https://www.linkedin.com/in/jobson-lira-098b771a8/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-darkblue.svg?style=flat)](https://github.com/amadords) [![](https://img.shields.io/badge/python-3.6+-yellow.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-green.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
-  <img src="https://github.com/amadords/Portfolio/blob/master/github.png" >
+  <img src="https://github.com/jlira/Portfolio/blob/master/github.png" >
 </p>
 
 
@@ -25,18 +25,8 @@
 
 ### Contatos 📭
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-sousa-amador)
-
-
-[<img align="left" alt="daniel.s.amador | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@daniel.s.amador)
-
-
-[<img align="left" alt="ds_amador | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ds_amador/)
-
-
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/jobson-lira-098b771a8/)
 <br />
-
-
 ### Linguagens e Ferramentas 🔨🔧
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
@@ -63,42 +53,11 @@ Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/bl
 
 ## Projetos 📈🤖
 
-  * **Prevendo Valores de Ações da PETR4**: https://bit.ly/36skE5J
-  
-  * **Projeto ML01 (Minerando Dados):** https://bit.ly/3jmLb82
-
-  * **Classificador de Música Spotify:** https://bit.ly/3l44ELf
-  
-  * **Prevendo Valor de Automóvel:** https://bit.ly/34dv0Uk
-  
-  * **Extração de Tabela de um PDF:** https://bit.ly/36n2nqs
-  
-  * **Storytelling com Dados:** https://bit.ly/2GoeUiD
-          
-  * **Desafio - Lambda3:** https://bit.ly/34aK0SY
-
   
   ## Artigos 📝
   
-  * **Data Science? Portfólio? O que não te disseram?:** https://bit.ly/3bpcag7
-  
-  * **Mais uma indicação de livros... Será?:** https://bit.ly/2FeS8cu
-  
-  * **Extraindo tabela de PDF:** https://bit.ly/2ZjV1zx
-  
-  * **Seu notebook e seu recrutador:** https://bit.ly/3ceAX7c
-  
-  * **Storytelling e Storydoing com Dados:** https://bit.ly/3mRXaN5
-  
-  * **Plante uma Árvore ou uma Floresta:** https://bit.ly/3ipydVK
-
-  * **Portfólio no Overview do GitHub:** https://bit.ly/3dcQc0S
-
  ---
 
- 
- ![danielamador12's github stats](https://github-readme-stats.vercel.app/api?username=amadords&show_icons=true&theme=tokyonight)
- 
  
  ### Agradecimento aos Tutores por todo suporte dado até aqui!
   
@@ -106,12 +65,7 @@ Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/bl
  [<img align="left" alt="minerando" width="65px" src="https://minerandodados.com.br/wp-content/uploads/2019/06/Rob%C3%B4-Minerador_metade-final-1.png" />](https://minerandodados.com.br/)
 
  
- [<img align="left" alt="estatidados" width="50px" src="https://yt3.ggpht.com/a/AATXAJxGYHT7lMdH3kZ5JpNmeCg9-pjjBdthFvwja7s1Fg=s900-c-k-c0xffffffff-no-rj-mo" />](http://estatidados.com.br/)
-
- 
  [<img align="left" alt="sigmoidal" width="70px" src="https://raw.githubusercontent.com/amadords/others/master/sigmoidal.png" />](https://sigmoidal.ai/)
- 
- 
  
 
 <br />
