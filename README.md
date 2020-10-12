@@ -49,7 +49,6 @@
 <br />
 
 
-Para notebooks com teoria clique [aqui](https://github.com/amadords/Portfolio/blob/master/Te%C3%B3ricos.md).
 
 
  
