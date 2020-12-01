@@ -9,7 +9,7 @@
 </p>
 
 
-- 🎓 **Sou um desenvolvedor de sistemas que se tornou cientista de dados.**
+- 🎓 **Sou um desenvolvedor de sistemas, estou me descobrindo em cientista de dados.**
 
 - 📊 **Aproveito soluções baseadas em dados que têm impacto e relevância em negócios e na sociedade.**
 
