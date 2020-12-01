@@ -9,15 +9,15 @@
 </p>
 
 
-- 🎓 **Sou um desenvolvedor de sistemas, estou me descobrindo em cientista de dados.**
+- 🎓 **Sou um desenvolvedor de sistemas e também cientista de dados.**
 
-- 📊 **Aproveito soluções baseadas em dados que têm impacto e relevância em negócios e na sociedade.**
+- 📊 **Aproveito soluções baseadas em dados que geram impacto e relevância em negócios e na sociedade.**
 
-- 💻 **Background em: Python, Machine Learning e Estatistica Descritiva.**
+- 💻 **Background em: Python,Django, C#, JavaScript, React,Docker e Angular.**
 
 - 🧠 **Em aprendizado e aprimoramento constante de minhas habilidades.**
 
-- 💡 **Tenho por missão ajudar Negócios e outros Cientistas de Dados e desenvolvedores a ultrapassar barreiras e desafios.**
+- 💡 **Assumi por missão ajudar Negócios gerando valor com meus código e ajudar outros desenvolvedores a ultrapassar barreiras e desafios.**
 
 - 🐧 **Administador Linux.**
 
