@@ -17,7 +17,7 @@
 
 - 🧠 **Em aprendizado e aprimoramento constante de minhas habilidades.**
 
-- 💡 **Assumi por missão ajudar Negócios gerando valor com meus código e ajudar outros desenvolvedores a ultrapassar barreiras e desafios.**
+- 💡 **Assumi por missão ajudar Negócios gerando valor com meu código e ajudar outros desenvolvedores a ultrapassar barreiras e desafios.**
 
 - 🐧 **Administador Linux.**
 
