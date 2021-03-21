@@ -1,4 +1,4 @@
-### Jobson Lira (Web Developer Cientista de Dados) 👋
+### Jobson Lira (Web Developer) 👋
 
 <sub>*Desenvolvedor - Self-employed*</sub>
 
