@@ -1,4 +1,4 @@
-### Jobson Lira (Web Developer) 👋
+### Jobson Lira  👋
 
 <sub>*Desenvolvedor - Self-employed*</sub>
 
